@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tosin71
 - 👀 I’m interested in exploring and analyzing data
-- 🌱 I’m currently learning python and machine learning
+- 🌱 I’m currently a data analyst
 - 💞️ I’m looking to collaborate on anything data related
 - 📫 How to reach me tosinbare@gmail.com
 
