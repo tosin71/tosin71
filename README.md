@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tosin71
+- 👋 Hi, I’m Tosin
 - 👀 I’m interested in exploring and analyzing data
 - 🌱 I’m currently a data analyst
 - 💞️ I’m looking to collaborate on anything data related
